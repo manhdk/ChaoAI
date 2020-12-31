@@ -129,8 +129,6 @@ dmypy.json
 .pyre/
 
 # future script
-day3.py
-day4.py
 day5.py
 day6.py
 day7.py
@@ -140,4 +138,3 @@ day10.py
 day11.py
 day12.py
 day13.py
-
